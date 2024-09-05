@@ -29,5 +29,9 @@
 #### Sou Felipe Monechi 👋, um  jovem apaixonado por tecnologia que se especializou em programação back-end. Tenho uma sólida experiência em desenvolvimento de sistemas e web, e adoro enfrentar desafios que me permitam criar soluções inovadoras e eficientes. Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências do setor.
 #### Atualmente, trabalho em um escritório no setor administrativo, mas percebo que essa área não é onde me encontro. Minha verdadeira paixão é a tecnologia, especialmente a programação back-end onde desenvolvi e aprimorei habilidades como django, flask, sql, git entre outros. Por isso, estou buscando minha primeira oportunidade de emprego como desenvolvedor. Acredito que minhas habilidades e dedicação à área me permitirão contribuir significativamente em uma equipe de desenvolvimento, onde poderei realmente colocar em prática o que amo fazer.
 
-Contato:<br>
-📧 : Felipe.monechi@hotmail.com<br>
+Contatos:<br>
+<div>
+    <a href='https://www.linkedin.com/in/felipe-monechi-6069b6251/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+    <a href='mailto:lipe.monechi@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+    <a href='mailto:felipe.monechi@hotmail.com'><img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'></a>
+</div>
