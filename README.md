@@ -35,3 +35,6 @@ Contatos:<br>
     <a href='mailto:lipe.monechi@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
     <a href='mailto:felipe.monechi@hotmail.com'><img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'></a>
 </div>
+<br>
+
+![snake gif](https://github.com/FelipeMonechi/FelipeMonechi/blob/output/github-contribution-grid-snake.gif)
